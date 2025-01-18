@@ -116,7 +116,5 @@ for(b in 1:5){
   vector_for_sequence[(1:5) + add[b]] <- the_values
 }
 
+#print result
 vector_for_sequence
-
-#new comment
-
